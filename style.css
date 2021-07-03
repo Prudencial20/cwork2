@@ -1,0 +1,23 @@
+body {
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    background-color: #b87e89;
+    height: 500px;
+    width:500px ;
+    text-align: center ;
+    color:crimson;
+
+}
+form div {
+    margin: 2opx;
+}
+form div input {
+
+width: 70%;
+height: 30px;
+border-radius: 5px;
+}
